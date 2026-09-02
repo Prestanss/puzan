@@ -1232,3 +1232,4 @@ hyperx.com
 github.com
 files.hyperx.com
 dl.gl-inet.com
+gl-inet.com

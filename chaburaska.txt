@@ -1229,10 +1229,6 @@ profile.accounts.firefox.com
 firefox.com
 weatherbit.io
 hyperx.com
-github.com
-cloudflare.com
-one.one.one.one
-cloudflarestatus.com
 cdnjs.com
 files.hyperx.com
 dl.gl-inet.com

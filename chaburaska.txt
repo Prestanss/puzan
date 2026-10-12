@@ -1237,3 +1237,11 @@ gl-inet.com
 packagist.org
 github.com
 kerish.org
+update.kerish.org
+www.kerish.org
+download.kerish.org
+kerish.net
+update.kerish.net
+www.kerish.net
+kerishdoctor.com
+kerish.ru

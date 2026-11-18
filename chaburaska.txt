@@ -1248,6 +1248,7 @@ plaync.co.kr
 amazonaws.com
 api.met.no
 githubusercontent.com
+cloudflare.com
 5.28.192.0/18
 91.105.192.0/23
 91.108.4.0/22
